@@ -11,6 +11,9 @@
 # График обучения одномерной сверточной сети/ Еraining schedule of a one-dimensional convolutional neural network
 ![image](https://github.com/ArtemAvgutin/NLP_yelp/assets/131138862/e8632833-e4ae-4e1e-9e28-fe86a0f4c507)
 
+# Результат оценки собсвенного отзыва / The result of evaluating your own review
+![image](https://github.com/ArtemAvgutin/NLP_yelp/assets/131138862/0e341135-e341-4356-b44e-75ec93ba1ff6)
+
 ## В результате работы было создано 2 нейросети с похожими результатами. Однако, их можно улучшить меняя гиперпараметры и кол-во эпох обучения.
 * Work on creating a neural network to determine the sentiment of a review. The Lstm neural network was created, which was trained on the Yelp review dataset and was tested on the restaurant’s own review.
 * Text tokenization was used, as well as a callback function to save the best model. The problem was also solved with a one-dimensional convolutional network and the results were compared.
